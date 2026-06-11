@@ -108,3 +108,4 @@ Image Compression
 
 <br>
 
+# Quizzes and Exams are comming soon
