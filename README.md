@@ -26,6 +26,22 @@ In many business and industry application domains handling and processing of dig
 
 <br>
 
+# Grade Compositions
+
+Mandatory Attendance: 5%
+
+Weekly Pop quizzes: 5%
+
+Programming Assignments: 40%
+
+Writing Assignments(Based on your completeness): 5%
+
+Two Midterms: 20%
+
+Final Exam: 25%
+
+<br>
+
 # Outline
 
 Linear Systems and Decomposition of Signals
