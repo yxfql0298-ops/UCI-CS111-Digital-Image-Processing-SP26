@@ -55,3 +55,40 @@ Image Segmentation
 Color Models
 
 Image Compression
+
+<br>
+
+# Lectures
+
+1. Data(https://drive.google.com/file/d/16yn456QUJHTMbhbld3iW2fpxJDAB_4XQ/view?usp=sharing)
+
+2. LSIS(https://drive.google.com/file/d/19zeYrylO89oWvKt_gzgj39Y-dThhA8Da/view?usp=sharing)
+
+3. Feature Detector(https://drive.google.com/file/d/12Z01yEZXRkijGr2EbRCPica3kYYWcxYb/view?usp=sharing)
+
+4. Discrete Fourier Transform(https://drive.google.com/file/d/1FIGRXcZYEOs_-_4kEMqahE1Ih63Nwo9-/view?usp=sharing)
+
+5. FT Properties(https://drive.google.com/file/d/1FIGRXcZYEOs_-_4kEMqahE1Ih63Nwo9-/view?usp=sharing)
+
+6. Geometry Transformation(https://drive.google.com/file/d/1i_E3xJOOxv41eFPzCtVS5Kxgxi9cfQSm/view?usp=sharing)
+
+7. 2D-DFT(https://drive.google.com/file/d/1MjTzN0PABUutWFDCBE2g7L5qcDvlPRjz/view?usp=sharing)
+
+8. Sampling and Reconstructions(https://drive.google.com/file/d/1vbBCo6VVhena84HC0qQaDI0QhgdztHXH/view?usp=sharing)
+
+9. Statistical Processing(https://drive.google.com/file/d/1z2vMn1Sn8rKnPO9rZkzjw_xHsdjXLfGY/view?usp=sharing)
+
+10. Image Composition(https://drive.google.com/file/d/1DwAQPavFBjYr-7CWFF9foUHWJ7TeWhhD/view?usp=sharing)
+
+11. Color(https://drive.google.com/file/d/1s5NOr-quwsHDS2gYarO9YAZ99O61iDAx/view?usp=sharing)
+
+12. Color Mixture(https://drive.google.com/file/d/1R4K01O_CG2BJtKLKWZgtyHQh2Pq8V5MI/view?usp=sharing)
+
+13. Morphological Operations(https://drive.google.com/file/d/19BS4RKpVPv_loKDhW3DBYdAXNt7kdN_n/view?usp=sharing)
+
+14. Morphological Operations in Gray Scale Image(https://drive.google.com/file/d/1uyvENw3RWWW3XsgM6gRLud_-IMSzQ8M3/view?usp=sharing)
+
+15. Image Compression(https://drive.google.com/file/d/1ICH3O_rB55WkSzu3f868WAi32wj6eOut/view?usp=sharing)
+
+<br>
+
