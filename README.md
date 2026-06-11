@@ -32,7 +32,7 @@ Mandatory Attendance: 5%
 
 Weekly Pop quizzes: 5%
 
-Programming Assignments: 40%
+Programming Assignments: 40%(See the link: https://drive.google.com/drive/folders/1UW7kCSoMg9uyC6UHFl4D2BTsvzS5Vzg-?usp=sharing)
 
 Writing Assignments(Based on your completeness): 5%
 
